@@ -1,0 +1,44 @@
+Trivia game mixed with tic-tac-toe
+in main:
+-greeting statements
+
+Functions:
+-printBoard()
+-randomizeGenre()
+    -englishq()
+    -history()
+    -codingq()
+    -scienceq()
+-checkAnswer()?
+-checkWin()
+
+
+
+englishq()
+    Do you have any idea what she ___ at this time tomorrow? (b. will be doing)
+        a. has done     b. will be doing    c. was doing    d. is doing
+    What is the opposite of big? (b. little)
+        a. loose    b. little   c. long     d. large
+    What does a sentence end with? (d. Punctuation)
+        a. Capital letter   b. Adverb   c. Subject     d. Punctuation
+
+
+
+questions 
+-c++ 
+    What is a correct syntax to output "Hello World" in C++? (a. Console.WriteLine("Hello World) b.System.out.printIn("Hello World") c. print ("Hello World") d/. cout<< "Hello World"; )
+    Which of the following operators had the highest precedence? (a/. ! b. * c. % d. =)
+    To use the predefined function fmod, the program must include the header file ____. (a. <cctype> b. <iostream> c/. <cmath> d. <cstdlib>)
+    The output of the statements: cout<<pow(2.0, pow(3.0, 1.0)) << endl; is _____. (a. 6.0 b. 7.0 c/. 8.0 d. 9.0)
+    Which executes first in a do... while loop? (a/. the body of the loop b. the increment statement c. the evaluation of the expression controlling the loop d.the update statement)
+-history 
+    
+
+englishq()
+    Do you have any idea what she ___ at this time tomorrow? (b. will be doing)
+        a. has done     b. will be doing    c. was doing    d. is doing
+    What is the opposite of big? (b. little)
+        a. loose    b. little   c. long     d. large
+    What does a sentence end with? (d. Punctuation)
+        a. Capital letter   b. Adverb   c. Subject     d. Punctuation
+    

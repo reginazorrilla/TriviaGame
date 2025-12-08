@@ -10,11 +10,16 @@ int main(){
     cout << "Starting Board" << endl;
     printBoard();
 do{
-    randomizeGenre();
-
+    askQuestion();
+    checkAnswer();
+    if (checkAnswer()==1){
+    placeMark();
+}
 
 
 
 }
     return 0;
 }  
+
+
